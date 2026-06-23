@@ -44,7 +44,7 @@ Build a virtualized Windows and Ubuntu environment using VirtualBox and establis
 | CPU             | 2 vCPUs             |
 | Disk            | 50 GB (Dynamic VDI) |
 | Username        | adminuser           |
-| Guest Additions | Installed           |
+| Hostname        | WIN-ITLAB           |
 
 ### UBUNTU-ITLAB
 
@@ -55,7 +55,7 @@ Build a virtualized Windows and Ubuntu environment using VirtualBox and establis
 | CPU      | 2 vCPUs             |
 | Disk     | 25 GB (Dynamic VDI) |
 | Username | employee1           |
-| Hostname | employee1-itlab     |
+| Hostname | UBUNTU-ITLAB        |
 
 ---
 
