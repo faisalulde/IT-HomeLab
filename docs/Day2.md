@@ -265,22 +265,28 @@ Verified the ITSupport group was successfully created in Local Users and Groups.
 Screenshots collected:
 
 * ubuntu-user-administration.png
-![ubuntu-user-administration.png](./screenshots/ubuntu-user-administration.png)
+
+![ubuntu-user-administration.png](/screenshots/ubuntu-user-administration.png)
 
 * ubuntu-password-management.png
-![ubuntu-password-management.png](./screenshots/ubuntu-password-management.png)
+
+![ubuntu-password-management.png](/screenshots/ubuntu-password-management.png)
 
 * windows-create-users.png
-![windows-create-users.png](./screenshots/windows-create-users.png)
+
+![windows-create-users.png](/screenshots/windows-create-users.png)
 
 * windows-disable-user.png
-![windows-disable-user.png](./screenshots/windows-disable-user.png)
+
+![windows-disable-user.png](/screenshots/windows-disable-user.png)
 
 * windows-reset-password.png
-![windows-reset-password.png](./screenshots/windows-reset-password.png)
+
+![windows-reset-password.png](/screenshots/windows-reset-password.png)
 
 * windows-create-group.png
-![windows-create-group.png](./screenshots/windows-create-group.png)
+
+![windows-create-group.png](/screenshots/windows-create-group.png)
 
 ---
 
