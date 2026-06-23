@@ -41,11 +41,11 @@ A hands-on IT Support, Help Desk, and System Administration lab built using Virt
 ## Documentation
 
 ### Daily Logs
-- (docs/Day1.md)[docs/Day1.md]
-- (docs/Day2.md)[docs/Day2.md]
+- [docs/Day1.md](docs/Day1.md)
+- [docs/Day2.md](docs/Day2.md)
 
 ### Troubleshooting Guides
-- (troubleshooting/network-connectivity.md)[troubleshooting/network-connectivity.md]
+- [troubleshooting/network-connectivity.md](troubleshooting/network-connectivity.md)
 
 ## Technologies Used
 
