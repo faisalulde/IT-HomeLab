@@ -148,16 +148,16 @@ Successfully verified communication between both virtual machines:
 
 Screenshots collected:
 
-* windows-ipconfig.png
+* windows-ipconfig.png  
 ![windows-ipconfig.png](/screenshots/windows-ipconfig.png)
 
-* ubuntu-ipaddr.png
+* ubuntu-ipaddr.png  
 ![ubuntu-ipaddr.png](/screenshots/ubuntu-ipaddr.png)
 
-* ping-ubuntu.png
+* ping-ubuntu.png  
 ![ping-ubuntu.png](/screenshots/ping-ubuntu.png)
 
-* ping-windows.png
+* ping-windows.png  
 ![ping-windows.png](/screenshots/ping-windows.png)
 
 ---
